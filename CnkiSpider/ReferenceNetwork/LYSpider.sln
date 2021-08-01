@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LYSpider", "LYSpider\LYSpider.pyproj", "{9DED2F97-6BFE-4FE8-991C-F8E36430570C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DED2F97-6BFE-4FE8-991C-F8E36430570C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DED2F97-6BFE-4FE8-991C-F8E36430570C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40A4DA1-0567-41FD-89D2-3E9EDC2781DE}
+	EndGlobalSection
+EndGlobal
